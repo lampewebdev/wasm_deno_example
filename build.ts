@@ -1,5 +1,6 @@
 #!/usr/bin/env -S deno run --allow-run --allow-env
 
+// SPDX-License-Identifier: MIT
 let cargoBuild = Deno.run(
   {
     "cmd": [
